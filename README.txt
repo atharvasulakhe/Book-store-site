@@ -1,0 +1,1 @@
+A web application with CRUD functionality that may be used in a bookstore to keep track of the books that customers can buy. Tech Stack- ReactJS, HTML, CSS, NodeJS, MongoDB, ExpressJS.
